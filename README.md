@@ -4,7 +4,7 @@
 The familier game in an app, allows you to play and save your high scores.
 
 ### Installation
-To run this project locally, follow these steps after you've launched the server:
+To run this project locally, follow these steps:
 
 1.Clone the repository
 
