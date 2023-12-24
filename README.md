@@ -8,7 +8,7 @@ To run this project locally, follow these steps:
 
 1.Clone the repository
 
-2.Install dependencies: npm i --legacy-peer-deps (Important!, as the requirement were to use react navigation v5 this commend is neccessary since that package is outdated and no longer supported)
+2.Install dependencies: npm i --legacy-peer-deps (Important!, as the requirements were to use react navigation v5 this command is neccessary since that package is outdated and no longer supported)
 
 3.Run the project: npm start
 
